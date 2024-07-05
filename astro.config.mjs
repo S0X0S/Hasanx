@@ -16,7 +16,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://ashfid.dev',
+  site: '',
   markdown: {
     remarkPlugins: [sectionize]
   },
