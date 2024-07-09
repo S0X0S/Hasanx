@@ -1,6 +1,6 @@
 <?php
     header('Content-Type: application/json; charset=utf-8');
-    header('Access-Control-Allow-Origin: https://www.fgentili.it');
+    header('Access-Control-Allow-Origin: https://s0x0s.github.io/Hasanx/');
     if(isset($_POST["value"])) {
         $value = $_POST["value"];
 
