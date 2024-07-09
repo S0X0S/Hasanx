@@ -13,7 +13,7 @@ function Feedback(props) {
     const post = "value="+sendValue;
     await axios({
       method: 'post',
-      url: 'https://www.fgentili.it/setRating.php',
+      url: 'https://s0x0s.github.io/Hasanx/setRating.php',
       data: post
     });
   }

@@ -29,7 +29,7 @@ function App() {
         <meta name="theme-color" content={darkToggle ? (navbarToggle ? "#171717" : "#362f78") : (navbarToggle ? "#efefef" : "#5850ec")} />
         <meta name="apple-mobile-web-app-status-bar" content={darkToggle ? navbarToggle ? "#171717" : "#362f78" : navbarToggle ? "#efefef" : "#5850ec"} />
       </Helmet>
-      <Navbar link="https://www.fgentili.it/" Logo={Logo} setNavbarToggle={setNavbarToggle} darkToggle={darkToggle} setDarkToggle={setDarkToggle} title="Gentil" skillsRef={skillsRef} portfolioRef={portfolioRef} aboutRef={aboutRef} />
+      <Navbar link="https://s0x0s.github.io/Hasanx/" Logo={Logo} setNavbarToggle={setNavbarToggle} darkToggle={darkToggle} setDarkToggle={setDarkToggle} title="Gentil" skillsRef={skillsRef} portfolioRef={portfolioRef} aboutRef={aboutRef} />
       <Header name="Federico Gentili" startRef={skillsRef} />
       <div className="bg-white dark:bg-neutral-800">
         <Zoom fraction={0.15}>
