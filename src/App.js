@@ -23,7 +23,7 @@ function App() {
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', modeMe);
   }, []);
 
-  return (s
+  return (
     <div className={`scroll-smooth${ darkToggle ? ' dark' : ''}`}>
       <Helmet>
         <meta name="theme-color" content={darkToggle ? (navbarToggle ? "#171717" : "#362f78") : (navbarToggle ? "#efefef" : "#5850ec")} />
