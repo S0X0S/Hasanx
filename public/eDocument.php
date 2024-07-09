@@ -4433,7 +4433,7 @@
                 </h2>
                 <p class="text-2xl font-semibold md:text-3xl">Sorry, you are not authorized to continue.</p>
                 <p class="mt-4 mb-8">But dont worry, you can find plenty of other things on my homepage.</p>
-                <a rel="noopener noreferrer" href="https://s0x0s.github.io/Hasanx//" class="px-8 py-3 font-semibold rounded">Back to homepage</a>
+                <a rel="noopener noreferrer" href="https://s0x0s.github.io/Hasanx/" class="px-8 py-3 font-semibold rounded">Back to homepage</a>
             </div>
         </div>
     </section>
@@ -4448,7 +4448,7 @@
                 </h2>
                 <p class="text-2xl font-semibold md:text-3xl">Sorry, you do not have permission to continue.</p>
                 <p class="mt-4 mb-8">But dont worry, you can find plenty of other things on my homepage.</p>
-                <a rel="noopener noreferrer" href="https://s0x0s.github.io/Hasanx//" class="px-8 py-3 font-semibold rounded">Back to homepage</a>
+                <a rel="noopener noreferrer" href="https://s0x0s.github.io/Hasanx/" class="px-8 py-3 font-semibold rounded">Back to homepage</a>
             </div>
         </div>
     </section>
@@ -4463,7 +4463,7 @@
                 </h2>
                 <p class="text-2xl font-semibold md:text-3xl">Sorry, i can't find this page.</p>
                 <p class="mt-4 mb-8">But dont worry, you can find plenty of other things on my homepage.</p>
-                <a rel="noopener noreferrer" href="https://s0x0s.github.io/Hasanx//" class="px-8 py-3 font-semibold rounded">Back to homepage</a>
+                <a rel="noopener noreferrer" href="https://s0x0s.github.io/Hasanx/" class="px-8 py-3 font-semibold rounded">Back to homepage</a>
             </div>
         </div>
     </section>
@@ -4492,7 +4492,7 @@
                 </h2>
                 <p class="text-2xl font-semibold md:text-3xl">What are you doing here?</p>
                 <p class="mt-4 mb-8">Go back to the home page otherwise you're here doing nothing.</p>
-                <a rel="noopener noreferrer" href="https://s0x0s.github.io/Hasanx//" class="px-8 py-3 font-semibold rounded">Back to homepage</a>
+                <a rel="noopener noreferrer" href="https://s0x0s.github.io/Hasanx/" class="px-8 py-3 font-semibold rounded">Back to homepage</a>
             </div>
         </div>
     </section>
