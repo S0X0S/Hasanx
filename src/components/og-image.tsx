@@ -43,7 +43,7 @@ export default function OgImage({
           borderRadius: 9999,
         }}
       >
-        {`tuna.one${url ? `/${url}` : ""}`}
+        {`s0x0s.github.io/Hasanx${url ? `/${url}` : ""}`}
       </div>
       <span
         style={{
