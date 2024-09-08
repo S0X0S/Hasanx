@@ -8,7 +8,7 @@ import { sharedTitle, sharedDescription } from "@/app/shared-metadata";
 import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://tuna.one"),
+  metadataBase: new URL("https://s0x0s.github.io/Hasanx/"),
   robots: {
     index: true,
     follow: true,
